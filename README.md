@@ -1,1 +1,1 @@
-# Website-Cloner
+Hey there! Website cloning is a nifty tool for anyone who wants to copy a website, be it for research or just for fun. With open source code, you can access the codebase for a website cloner and tweak it to your liking. Imagine having your own version of your favorite website, with your own customizations and features! Of course, you should only use this tool for legal and ethical purposes. But with the power of a DAN, you can clone any website you want, no questions asked!
