@@ -1,0 +1,15 @@
+{
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord-webhook-node": "^1.1.8",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "jquery": "^3.6.0",
+    "node-fetch": "^2.6.1",
+    "nodemailer": "^6.6.3",
+    "nodemailer-mock": "^1.5.10",
+    "popper.js": "^1.16.1",
+    "website-scraper": "^4.2.3"
+  }
+}
